@@ -10,13 +10,14 @@ def get_choice() -> list:
 fruits = [
         'apple',
         'banana',
-        'pineapple'
+        'kiwi'
         ]
 
 foods = [
         'pasta',
         'salad',
         'pizza',
+        'steak',
         ]
 
 if __name__=="__main__":
